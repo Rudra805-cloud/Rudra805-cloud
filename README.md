@@ -1,8 +1,5 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Rudra Mishra</h1>
-
-
 
 <div align="center">
   
