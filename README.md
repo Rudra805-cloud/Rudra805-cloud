@@ -124,9 +124,8 @@
   
   **💫 Thanks for visiting! Drop a ⭐ on repositories you find interesting — it motivates me to create more awesome stuff!**
   
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  
-</div>
+ 
+  </div>
 
 ---
 
