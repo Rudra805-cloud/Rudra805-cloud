@@ -23,19 +23,18 @@
 ```javascript
 const rudra = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Java", "C++", "C", "Python"],
+    code: ["JavaScript", "Java", "C++", "C"],
     askMeAbout: ["Web Dev", "Frontend", "React", "Java"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
+            css: ["Tailwind"]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
-            java: ["Spring Boot", "Hibernate"]
+            java: ["Spring Boot"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["Git", "Docker", "AWS"]
+        databases: ["MongoDB", "MySQL"],
+        misc: ["Git",]
     },
     currentFocus: "Building Full Stack Applications",
     funFact: "I turn coffee into code! ☕️"
