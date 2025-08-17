@@ -41,7 +41,6 @@ const rudra = {
 };
 ```
 
-<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
