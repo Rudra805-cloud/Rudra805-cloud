@@ -27,15 +27,12 @@ const rudra = {
     askMeAbout: ["Web Dev", "Frontend", "React", "Java"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React"],
             css: ["Tailwind"]
-        },
-        backEnd: {
-            java: ["Spring Boot"]
-        },
-        databases: ["MongoDB", "MySQL"],
-        misc: ["Git",]
-    },
+         },
+        deployment:["Vercel"],
+        misc: ["Git"]
+         },
     currentFocus: "Building Full Stack Applications",
     funFact: "I turn coffee into code! ☕️"
 };
