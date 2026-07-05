@@ -1,100 +1,80 @@
-```markdown
-# Hi, I'm Rudra Mishra 👋
+<div align="center">
 
-### Full Stack Developer | Java | React | Node.js
+# Rudra Mishra
 
-I'm a Computer Science Engineering student passionate about building production-ready web applications and solving real-world problems through software.
+**Software Developer** · Java · React · Node.js
 
-Currently focused on **Full Stack Development**, **Data Structures & Algorithms**, and **Backend Engineering**.
+B.Tech Computer Science Engineering, Poornima Institute of Engineering and Technology 
 
----
+[LinkedIn](https://www.linkedin.com/in/rudra-mishra-315794326/) · [GitHub](https://github.com/Rudra805-cloud) · [Email](mailto:rudramishra1809@gmail.com)
 
-## 🚀 Featured Project
+</div>
 
-# 🛡️ Veris — Company Trust & Verification Platform
+<br>
 
-A production-ready full-stack platform that evaluates company credibility by analyzing multiple trust signals.
+## About
 
-### Key Features
+Software Engineer Intern focused on full-stack web development and backend system design. Currently building **Veris**, a company trust and job-scam prevention platform, alongside consistent daily practice in data structures and algorithms.
 
-- 🔐 JWT Authentication
-- 📊 Rule-Based Trust Scoring
-- 🌐 WHOIS Analysis
-- 🔒 SSL Certificate Validation
-- 🌍 Website Reachability
-- 📄 Contact & Legal Page Detection
-- 💼 Careers Detection
-- 🔗 Social Presence Analysis
-- ⚡ MongoDB 24-Hour Validation Cache
-- 📱 Responsive React UI
+Targeting SDE internship and full-time roles at product-focused engineering teams.
 
-**Tech Stack**
+<br>
 
-React • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • Vercel • Render
+## Featured Project
 
-**Live Demo**
+### Veris — Company Trust & Verification Platform
 
-🔗 https://veris-ruby.vercel.app
+A full-stack application that evaluates company credibility using a weighted, multi-signal trust score, designed to help job-seekers identify fraudulent companies and listings.
 
-**Repository**
+**Core capabilities**
+- WHOIS, SSL, and domain reachability analysis
+- Reputation checks via VirusTotal and Google Safe Browsing
+- Website content scraping for contact, legal, and careers-page detection
+- Social presence analysis
+- JWT authentication with paginated request history
+- 24-hour MongoDB caching layer
 
-🔗 https://github.com/Rudra805-cloud/Compney-Verification-System
+**Stack:** React · Node.js · Express · MongoDB · Tailwind CSS
 
----
+**Links:** [Live Demo](https://veris-ruby.vercel.app) · [Repository](https://github.com/Rudra805-cloud/Compney-Verification-System)
 
-## 💻 Tech Stack
+<br>
 
-<p align="center">
+## Technical Skills
 
-<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode,vite,vercel,render" />
+**Languages**  Java, JavaScript, C++, C
 
-</p>
+**Frontend**  React, Tailwind CSS, Vite
+
+**Backend**  Node.js, Express, MongoDB, JWT
+
+**Tools**  Git, GitHub, VS Code, Vercel, Render
+
+<br>
 
 
-## 📊 GitHub Stats
 
-<p align="center">
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rudra805-cloud&show_icons=true&theme=tokyonight&hide_border=true"/>
+## GitHub Activity
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra805-cloud&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rudra805-cloud&show_icons=true&theme=default&hide_border=true&hide_title=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra805-cloud&theme=default&hide_border=true" />
 
----
+</div>
 
-## 🌱 Currently Learning
+<br>
 
-- Backend System Design
-- Scalable REST APIs
-- Advanced React
-- Data Structures & Algorithms
+## Currently Learning
 
----
+Backend system design · REST API design · Database optimization · Advanced React patterns
 
-## 📫 Connect With Me
+<br>
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/rudra-mishra-315794326/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+*Building software that solves real problems.*
 
-<a href="mailto:rudramishra1809@gmil.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rudra805-cloud">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-> _"Building software that solves real problems, one project at a time."_ 🚀
-
-</p>
-```
+</div>
